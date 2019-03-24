@@ -56,7 +56,7 @@ public class lesson {
         int i = 0;
         while(j < 10){
           i ++;
-          if {(i%3==0 or i%4==0) and (i%12 != 0)
+          if {(i%3==0 || i%4==0) && (i%12 != 0)
             System.out.println(i);
           }
         }

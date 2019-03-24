@@ -1,0 +1,15 @@
+// main function
+// public class lesson
+  // public () static () void (no return value)
+  // main (name of function), (strings [] args) (parameters)
+// how to create multiple functions in Java
+  //public static void printSum(){}
+      //** has no parameters
+      // system.out.println()
+
+//print out sums 1-10
+// int total=0
+// for int i = 0; i< 10; i++
+//    total +=i
+      sysout (total);
+      print sum == 55

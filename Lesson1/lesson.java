@@ -50,10 +50,6 @@ system.out.println ("a");
 int a = 2
 system.out.println ("a");
 double a = 2.4*/
-public static void printSums() {
-    int sum = 0;
-    for (int i = 1; i <= 50; i++) {
-        sum += i;
-        System.out.println(sum);
-    }
-}
+
+
+//Lesson 2
