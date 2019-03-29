@@ -51,7 +51,7 @@ public class lesson {
 
 public class lesson {
     public static void main (String[] args){
-        int [][] arr2 = new int [10][10];
+      //  int [][] arr2 = new int [10][10];
         int [][] grid = new int[][]{
                               //i,j position
             {1,2,3,4},
@@ -59,8 +59,8 @@ public class lesson {
             {9,10,11,12}
         };
         for (int i = 0; i < 4; i++) {
-        for (int j = 0; j < 4[i].length; j++) {
-            System.out.print(4[i][j]);
+        for (int j = 0; j < grid[i].length; j++) {
+            System.out.print([i][j]);
           }
         }
         // System.out.println(grid[1][2]);
